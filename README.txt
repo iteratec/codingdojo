@@ -32,7 +32,7 @@ Make sure tests are green:
 
 You should see green tests.
 
-IntelliJ Idea
+IntelliJ IDEA
 -------------
 
 1. File > Open ...
