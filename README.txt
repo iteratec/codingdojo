@@ -13,6 +13,7 @@ Remember the location where you cloned the repository, or extracted the ZIP file
 
 This location will be referred to as "project location".
 
+
 Eclipse
 -------
 
@@ -32,6 +33,7 @@ Make sure tests are green:
 
 You should see green tests.
 
+
 IntelliJ IDEA
 -------------
 
@@ -49,3 +51,9 @@ Make sure tests are green:
 3. Right-click and select "Run CodingDojoTests"
 
 You should see green tests.
+
+
+NetBeans
+--------
+
+Please switch to the "netbeans" branch and follow instructions there.
