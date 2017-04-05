@@ -13,6 +13,27 @@ Remember the location where you cloned the repository, or extracted the ZIP file
 
 This location will be referred to as "project location".
 
+
+NetBeans
+--------
+
+1. File > Open Project...
+2. Navigate to project location
+3. Select folder
+4. Select "Open Project"
+
+Project should be imported. 
+
+Make sure tests are green:
+
+1. Expand "Test Sources"
+2. Expand package
+3. Right click on "CodingDojoTests"
+4. Select "Test File"
+
+You should see green tests.
+
+
 Eclipse
 -------
 
@@ -31,6 +52,7 @@ Make sure tests are green:
 4. Select "JUnit Test"
 
 You should see green tests.
+
 
 IntelliJ IDEA
 -------------
